@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 📫 How to reach me: kacper.tracz3381@gmail.com
+- ⚡ Fun fact: football & math lover
 <!--
 **kastre3381/kastre3381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
