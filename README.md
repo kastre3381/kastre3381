@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fguard-dog-gifs" width="100"/>
+  <img src="https://tenor.com/en-GB/view/vibing-cool-dogs-doggo-dog-pug-gif-23102981" width="100"/>
 </div>
